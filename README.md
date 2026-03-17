@@ -134,8 +134,7 @@
 
 #### ① Original Vocal Sample vs. Vocal with instruments
 
-- **Time domain Waveform** 비교 시 세 번째 그래프의 노란 영역만큼 차이 발생
-- 음성 이외의 노이즈가 명확히 삽입되었음을 확인
+- **Time domain Waveform** 비교 시 음성 이외의 노이즈가 명확히 삽입되었음을 확인
 
 ---
 
